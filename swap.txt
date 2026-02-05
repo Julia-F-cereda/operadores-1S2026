@@ -1,0 +1,7 @@
+id= javascript
+class= formatação
+
+parseFloat= aceita qualquer num
+
+ alert(`O valor 01 digitado foi: ${v01}`)
+ 
