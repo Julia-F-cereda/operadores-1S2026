@@ -10,3 +10,10 @@ parseFloat= aceita qualquer num
  const= constante. o pi é uma constante. voce pode cirar pra armazenar elementos
  posso fazer constantes para todos os botoes
  
+
+  placeholder="Digite o Valor 01" oq vai dentro do campo
+step="0.01" setinhas
+required= obrigatorio
+
+if no javascripte = &&
+ou ||
