@@ -53,3 +53,15 @@ function Dividir(){
 
 
 };
+
+function Porcentagem(){
+    let v01 = parseFloat(prompt('Valor 01'))
+    alert(`O valor digitado é ${v01}`)
+
+    let v02 = parseFloat(prompt(`Valor 02`))
+    alert(`O valor digitado é ${v02}`)
+
+    document.getElementById('resultado').style.display = 'flex';
+    document.getElementById('resultado')
+};
+

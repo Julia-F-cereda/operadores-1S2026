@@ -4,4 +4,9 @@ class= formatação
 parseFloat= aceita qualquer num
 
  alert(`O valor 01 digitado foi: ${v01}`)
+
+ textcontent = colocar conteudo dentro da tag que ja existe
+
+ const= constante. o pi é uma constante. voce pode cirar pra armazenar elementos
+ posso fazer constantes para todos os botoes
  
